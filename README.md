@@ -1,0 +1,3 @@
+## Validador de Bandeiras de Cartão de Crédito
+
+Este projeto é uma aplicação Java que valida números de cartões de crédito utilizando o algoritmo de Luhn e identifica a bandeira do cartão com base no número fornecido. O algoritmo de Luhn é amplamente utilizado para verificar a validade de números de cartões de crédito, calculando uma soma específica e verificando se o resultado é divisível por 10. Além disso, o projeto utiliza expressões regulares para identificar a bandeira do cartão, como Visa (13 e 16 dígitos), MasterCard, Amex, Diners Club, Discover, EnRoute, JCB, Voyager, HiperCard e Aura. Este projeto foi desenvolvido com a ajuda do GitHub Copilot Chat para entrega no bootcamp Microsoft AI for tech - GitHub Copilot.
